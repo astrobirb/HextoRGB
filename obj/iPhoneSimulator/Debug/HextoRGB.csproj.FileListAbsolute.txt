@@ -1,0 +1,9 @@
+/Users/nicolef10/Desktop/repos/HextoRGB/HextoRGB/bin/iPhoneSimulator/Debug/HextoRGB.exe
+/Users/nicolef10/Desktop/repos/HextoRGB/HextoRGB/bin/iPhoneSimulator/Debug/HextoRGB.pdb
+/Users/nicolef10/Desktop/repos/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/nicolef10/Desktop/repos/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/nicolef10/Desktop/repos/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/nicolef10/Desktop/repos/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/nicolef10/Desktop/repos/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/HextoRGB.csproj.CoreCompileInputs.cache
+/Users/nicolef10/Desktop/repos/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/HextoRGB.exe
+/Users/nicolef10/Desktop/repos/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/HextoRGB.pdb
